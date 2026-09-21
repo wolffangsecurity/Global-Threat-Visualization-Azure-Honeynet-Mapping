@@ -1,6 +1,8 @@
+<img width="2000" height="1000" alt="image" src="https://github.com/user-attachments/assets/72a86e5d-b777-401c-856c-a6b0e8eb693a" />
+
 ## Project Description
 
-In this project, I intentionally set up both a Windows and Linux virtual machine with deliberate misconfigurations, making them accessible on the internet. They were left in this state for 24 hours to create a honeynet—an environment meant to attract and analyze potential malicious activities.
+In this project, I intentionally set up both a Windows and Linux virtual machine to be accessible on the internet. They were left in this state for 24 hours to create a honeynet which is an environment meant to attract and analyze potential malicious activities.
 
 This intentional misconfiguration invited attackers from various locations globally to attempt unauthorized access, allowing me to observe and analyze their methods. This provided insights into the geographical origin of each attack, helping me understand potential threats.
 
